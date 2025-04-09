@@ -39,6 +39,7 @@
 1. Open **File Explorer**.
 2. Navigate to the following directory: C:\Users\USER\AppData\LocalLow\TVGS\Schedule I\Saves\STEAM_ID
 3. Drag and drop **SaveGame_5** into the folder.
-4. You're done! Launch the game and load your save.
+4. Inside **SaveGame_5**, navigate to **WorldStorageEntities** and delete the **Test** file.
+5. You're done! Launch the game and load your save.
 
 ### Created by Papgy100
