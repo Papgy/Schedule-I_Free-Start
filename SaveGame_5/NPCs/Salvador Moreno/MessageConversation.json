@@ -1,0 +1,23 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f15",
+    "ConversationIndex": 0,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -493888308,
+            "Text": "Hey, I'm Sal. You need Coca seeds? You speak to me.",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1041177117,
+            "Text": "Send me a message if you want to order a drop.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}
